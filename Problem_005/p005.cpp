@@ -1,5 +1,5 @@
 /*
- * Solution to Project Euler problem 4
+ * Solution to Project Euler problem 5
  * by IlhanSeven
  
  * https://github.com/IlhanSeven/projectEuler
